@@ -90,7 +90,7 @@ def game_over():
 
 
 
-#tytul przycisku Inicjaly
+#tytul przycisku Inicjaly1
 pygame.draw.rect(game_window, (0, 0, 255), [0, 0, 720, 45], 2)
 fontButtons =  pygame.font.Font('freesansbold.ttf', 20)
 textComputer = u'Inicjaly'
